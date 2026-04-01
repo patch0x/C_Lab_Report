@@ -9,5 +9,5 @@ int main() {
 
     float area = base * height * 0.5;
 
-    printf("\nThe area is %f", area);
+    printf("\nThe area is %f.\n", area);
 }
