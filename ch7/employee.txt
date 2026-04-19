@@ -1,3 +1,0 @@
-Name=sushil
-ID=19
-Salary=1000999.19
